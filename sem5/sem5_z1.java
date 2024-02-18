@@ -25,8 +25,8 @@ private static void task0() {
 Passport Passport = new Passport();
 String pussNum;
 String LastName;
-Passport. add(pussNum: "12345"", LastName:"Иванов");
-Passport. add(pussNum:"321456", LastName:"Васильев");
+Passports. add(pussNum: "12345"", LastName:"Иванов");
+Passports. add(pussNum:"321456", LastName:"Васильев");
 Passport. add(pussNum:"234561", LastName:"Петрова");
 Passport. add(pussNum:"234432", LastName:"Иванов");
 Passport. add(pussNum:"654321", LastName:"Петрова");
